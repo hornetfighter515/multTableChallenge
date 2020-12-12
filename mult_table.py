@@ -1,9 +1,9 @@
-'''
+"""
 A multiplication challenge, write a multiplication table in as simple a way as possible.
 Completed for a discord server.
 
 @author hornetfighter515
-'''
+"""
 def main():
     for i in range(0,11):
         for j in range(0,11):
